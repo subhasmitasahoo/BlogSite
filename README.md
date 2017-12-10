@@ -5,9 +5,9 @@ This is a sample app made to demonstrate RESTful APIS and HTTP methods.
 
 ## Technologies used:
 1. Front-end : 
-   -HTML
-   -CSS
-   -Semantic-UI
+  -HTML
+  -CSS
+  -Semantic-UI
 2. Back-end : 
    -NodeJS
    -MongoDB
